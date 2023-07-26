@@ -1,0 +1,4 @@
+# complex_number extension
+comment = 'Extension for complex number arithmetic'
+default_version = '1.0'
+relocatable = true

@@ -1,6 +1,6 @@
 MODULE_big = complex_number
 OBJS = complex_number.o
-EXTENSION=complex_number
+EXTENSION = complex_number
 DATA = 
 DATA_built = 
 DOCS = README.md
